@@ -7,3 +7,4 @@ catboost_info/time_left.tsv
 catboost_info/learn/events.out.tfevents
 catboost_info/catboost_training.json
 best_xgb_model.joblib
+/catboost_info
